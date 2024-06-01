@@ -1,0 +1,11 @@
+database:
+  host: localhost
+  port: 5432
+  username: postgres
+  password: password
+  dbname: iot
+  disablessl: true
+
+mqtt:
+  host: localhost
+  port: 1883
